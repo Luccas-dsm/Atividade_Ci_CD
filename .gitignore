@@ -1,0 +1,8 @@
+terraform/.terraform/terraform.tfstate
+terraform/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.113.0/windows_386/LICENSE.txt
+terraform/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.113.0/windows_386/terraform-provider-azurerm_v3.113.0_x5.exe
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/id_rsa
+terraform/id_rsa.pub
+terraform/known_hosts
